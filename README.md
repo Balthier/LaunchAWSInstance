@@ -1,3 +1,3 @@
-Script is not completed, and has not been tested fully.
+Script is not complete, and has not been tested fully.
 
 DO NOT USE!
